@@ -4,8 +4,9 @@
 Passionate IT Technical Support Administrator dedicated to managing enterprise IT infrastructure, optimizing MikroTik networks, and diagnosing complex board-level hardware issues.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Manarshahin48/Manarshahin48/main/coding.gif" width="350px" />
+  <img src="156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="350px" />
 </p>
+
 
 ---
 
