@@ -19,23 +19,16 @@ Passionate IT Technical Support Administrator specialized in managing enterprise
 
 ---
 
-## 🛠️ Skills
+### 🛠️ Skills
 
-### 💻 Web Development
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![WordPress](https://shields.io)
-
-### 🔌 Hardware & Networking
 * **Hardware & Board Repair:** Boardview Analysis • Micro-soldering • Power ICs • BIOS Reprogramming
-* **Networking:** MikroTik RouterOS • Switches • Firewalls • Access Points • VPN
+* **Networking:** MikroTik • Switches • Firewalls • Access Points • VPN
 * **Printer & POS Fleets:** Commercial Photocopiers • Thermal Printers • ZKTeco Access Control
 * **Remote & OS Tools:** Windows • macOS • Linux • AnyDesk • TeamViewer
 
 ---
 
-## 📊 GitHub Stats
+### 📫 Connect with Me
 
-![إحصائيات جيتهاب](https://vercel.app)
-
-👁️ **Profile Views:** ![عدد الزوار](https://komarev.com)
+* 💼 **LinkedIn:** [Ramadan Abdelmohsen](https://www.linkedin.com/in/ramadan-abdelmohsen)
+* 📧 **Email:** [ram.abdelmohsen@gmail.com](mailto:ram.abdelmohsen@gmail.com)
