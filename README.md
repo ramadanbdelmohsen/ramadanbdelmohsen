@@ -1,16 +1,15 @@
 # Hi 👋, I'm Ramadan Abdelmohsen
 ### Senior IT Technical Support Administrator | L3 Hardware Specialist
 
-Passionate IT Technical Support Administrator dedicated to managing enterprise IT infrastructure, optimizing MikroTik networks, and diagnosing complex board-level hardware issues.
+Passionate IT Technical Support Administrator specialized in managing enterprise IT infrastructure, optimizing MikroTik networks, and diagnosing complex board-level hardware issues.
 
 <p align="center">
   <img src="156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="350px" />
 </p>
 
-
 ---
 
-### 👩‍💻 About Me
+### 👨‍💻 About Me
 
 * 💼 **Senior IT Technical Support Administrator** with 10+ years of experience
 * 🌐 **Network Management:** MikroTik RouterOS, LAN/WAN setup, switches, and firewalls
